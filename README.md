@@ -1,3 +1,12 @@
 # judy-sung.github.io
-welcome from my website
-I am Judy Sung from IT club at Payap University and it's my first time here!! HOw's yours????
+>_Introduction_<br />
+> Student at Payap University, Department of Information Technology <br />
+> Amphur Muang, Chiang Mai 50000, Thailand <br/>
+
+#Education
+* finished highschool in 2018.
+* Studied Engineering one year at TU(Kalay)
+
+#Experience
+* Youth Club
+* IT Club
