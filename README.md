@@ -1,4 +1,4 @@
-<img src="" width="300" />
+<img src="judy (1).jpg" width="300" />
 
 # judy-sung.github.io
 >_Introduction_<br />
