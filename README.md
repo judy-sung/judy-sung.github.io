@@ -1,4 +1,5 @@
-<img src="judy (1).jpg" width="300" />
+<div style="bgcolor: #FFFFCC;">
+img src="judy (1).jpg" width="300" />
 
 # judy-sung.github.io
 >_Introduction_<br />
@@ -19,3 +20,4 @@
 * try to learn guitar sometime in the future 
 
 test
+</div>
