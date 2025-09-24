@@ -1,5 +1,5 @@
-<body bgcolor="#009900">
-<div style="background-color: #FFFF00;">
+
+<div style="background-color: Tomato;">
 <img src="judy (1).jpg" width="300" />
 
 # judy-sung.github.io
