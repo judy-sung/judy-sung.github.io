@@ -1,4 +1,5 @@
-<div style="bgcolor: #FFFF00;">
+<body bgcolor="#009900">
+<div style="background-color: #FFFF00;">
 <img src="judy (1).jpg" width="300" />
 
 # judy-sung.github.io
@@ -21,3 +22,4 @@
 
 test
 </div>
+</body>
